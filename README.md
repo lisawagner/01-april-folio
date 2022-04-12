@@ -1,13 +1,13 @@
 # Fullstack Responsive Portfolio Website
 Project goal is to try out the Sanity.io content platform.
 
-## TeckStack
+## Teck Stack
 - React Frontend
 - Sanity Backend
 - Framer Motion Library
 - SCSS
 
-## TODO
+## To Do
 - Connect Sanity.io with React FrontEnd
 - Build out works/portfolio and additional pages
 
