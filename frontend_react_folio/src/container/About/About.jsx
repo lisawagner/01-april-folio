@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react'
 import { motion } from 'framer-motion'
 
 import { images } from '../../constants'
+// import { urlFor, client } from '../../client'
 import './About.scss'
 
 // placeholders
@@ -18,11 +19,10 @@ const About = () => {
   // const [abouts, setAbouts] = useState([]);
 
   // useEffect(() => {
-  //   const query = '*[_type == "abouts"]';
+  //   const query = '*[_type == "about"]';
 
-  //   client.fetch(query).then((data) => {
-  //     setAbouts(data);
-  //   });
+  //   client.fetch(query)
+  //     .then((data) => setAbouts(data))
   // }, []);
 
   return (
